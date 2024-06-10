@@ -52,19 +52,19 @@ we aim to develop a comprehensive model that accurately predicts home prices bas
 ## Feature Selection
 
 In our analysis, we identified several key features and their correlations with the target variable, represented by the S&P Case-Shiller Home Price Index.
-* +-------------------------+---------+
-* |    Feature              |target   |
-* +-------------------------+---------+
-* |income                   |0.985854 |
-* |median_sales_price       |0.972942 |
-* |consumer_price_index     |0.956684 |
-* |population               |0.950979 |
-* |house_start              |0.904608 |
-* |consumer_confidence_index|0.899154 |
-* |emratio                  |0.866574 |
-* |unemployed_rate          |0.750956 |
-* |mortgage_rate            |-0.884648|
-* +-------------------------+---------+
++-------------------------+---------+
+|    Feature              |target   |
++-------------------------+---------+
+|income                   |0.985854 |
+|median_sales_price       |0.972942 |
+|consumer_price_index     |0.956684 |
+|population               |0.950979 |
+|house_start              |0.904608 |
+|consumer_confidence_index|0.899154 |
+|emratio                  |0.866574 |
+|unemployed_rate          |0.750956 |
+|mortgage_rate            |-0.884648|
++-------------------------+---------+
 The positive correlation values indicate a direct relationship with home prices, while negative values suggest an inverse relationship. Features with higher absolute correlation values have a larger impact on home prices.
 
 ## Model Selection and Cross-Validation
