@@ -85,6 +85,7 @@ The cross-validation process resulted in the following **R-squared** scores for 
 ## Best Features With non-zero Coefficients
 
 Here are the features and their respective coefficients obtained from our Lasso regression model:
+
 | Feature                   | Coefficient  |
 |---------------------------|--------------|
 | GDP                       | 2.849799     |
