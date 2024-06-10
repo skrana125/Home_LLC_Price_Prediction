@@ -80,7 +80,7 @@ The cross-validation process resulted in the following **R-squared** scores for 
 - Fold 4: 0.9949
 - Fold 5: 0.9967
 
-<Figure size 800x600 with 1 Axes>
+![Predicted vs Observed](predictedVSobserved.png)
 
 ## Best Features With non-zero Coefficients
 
