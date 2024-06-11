@@ -26,12 +26,12 @@ we aim to develop a comprehensive model that accurately predicts home prices bas
 
 ## Libraries and Tools used:
 
-- Programming Languages: Python
-- Data Analysis Libraries: NumPy, pandas, matplotlib, seaborn
-- Machine Learning Libraries: scikit-learn
-- Data Visualization: Matplotlib, Seaborn
-- Version Control: Git, GitHub
-- Jupyter Notebooks for data exploration and analysis
+- Programming Languages: **Python**
+- Data Analysis Libraries: **NumPy, pandas, matplotlib, seaborn**
+- Machine Learning Libraries: **scikit-learn**
+- Data Visualization: **Matplotlib, Seaborn**
+- Version Control: **Git, GitHub**
+- _Jupyter Notebooks for data exploration and analysis_
 
 ## Data Collected
 - Target (S&P/Case-Shiller U.S. National Home Price Index.)
