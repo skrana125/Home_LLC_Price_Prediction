@@ -7,18 +7,18 @@ Our ultimate goal is to build a comprehensive model that sheds light on the key
 factors influencing housing prices, providing valuable insights for both 
 homeowners and stakeholders in the real estate market.
 
-- Data Cleaning (Data_Cleaning.ipynb):
+- [Data Cleaning (Data_Cleaning.ipynb](https://github.com/skrana125/Home_LLC_Price_Prediction/blob/master/Data_Cleaning.ipynb)):
 This notebook covers the process of cleaning and preprocessing the data. 
 It includes steps such as handling missing values, removing duplicates, 
 and transforming variables to prepare the dataset for analysis.
 
-- Exploratory Data Analysis (EDA.ipynb):
+- [Exploratory Data Analysis (EDA.ipynb)](https://github.com/skrana125/Home_LLC_Price_Prediction/blob/master/EDA.ipynb):
 In this notebook, we explore the relationships and distributions within the dataset.
 We analyze how different variables are related to each other and to the target 
 variable (home prices). This exploration helps us understand the key factors 
 influencing home prices.
 
-- Model Training (model_training.ipynb):
+- [Model Training (model_training.ipynb)](https://github.com/skrana125/Home_LLC_Price_Prediction/blob/master/Model_training.ipynb):
 The model training notebook focuses on building and evaluating predictive models for home prices. 
 It includes steps such as feature selection, model selection, training, and evaluation. By leveraging advanced data science techniques, 
 we aim to develop a comprehensive model that accurately predicts home prices based on the available features.
